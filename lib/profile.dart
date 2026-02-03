@@ -50,7 +50,7 @@ class Profile extends StatelessWidget {
                   SizedBox(height: 5),
                   Row(
                     children: [Icon(Icons.star),
-                    Text("Over Ratted")
+                    Text("Over Ratted m")
                       
                     ],
                   )
