@@ -27,5 +27,5 @@ MY profile that reflects the next evolution in CV or business cards.
 ## 📦 Installation
 
 1. *Clone the repository*
-2. https://github.com/mina-refaat-rasmy/myprofile/tree/main
+2. https://github.com/mina-refaat-rasmy/myprofile.git
    
